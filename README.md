@@ -34,4 +34,4 @@
 
 
 ## Contact
-Created by [Ishita Das] - feel free to contact me!
+Created by [[Ishita Das](https://github.com/whiteknight25/Bike-Rental-Linear-Regression)https://github.com/whiteknight25/Bike-Rental-Linear-Regression] - feel free to contact me!
